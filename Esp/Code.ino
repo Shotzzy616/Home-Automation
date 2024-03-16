@@ -10,8 +10,8 @@
 #define WIFI_SSID "Shotzzy"
 #define WIFI_PASSWORD "cosmos1234"
 
-#define API_KEY "AIzaSyAAsecFoQu7b-7GboNbGb_BA-s1TY_sze8"
-#define DATABASE_URL "https://homeauto-b02e3-default-rtdb.europe-west1.firebasedatabase.app/" 
+#define API_KEY "******"
+#define DATABASE_URL "*****" 
 
 #define LED D1
 #define LED1 D10
